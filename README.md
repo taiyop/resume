@@ -11,6 +11,8 @@
 |英語力|TOEIC 695点 (2013年時点）|
 |Outcome Delivery Practitioner認定済 
 
+![image](https://user-images.githubusercontent.com/1048048/60769467-11642a00-a10b-11e9-8b54-a5e88b21eb9b.png)
+
 ## 概要
 
 - バックエンドからフロントエンドまで一気通貫したWEB開発を主に取り組んでいます。
