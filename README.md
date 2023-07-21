@@ -21,7 +21,7 @@
 
 - 小規模〜中規模サービスの新規開発フェーズや、サービスのリプレイスフェーズにおいて非常に有用なエンジニアだと思います。(改修フェーズや保守運用フェーズも対応可能ではありますが、サービスのアーキテクチャ設計の段階から参画させて頂くことで最もバリューを発揮できるタイプです)
 
-- 「手を動かすエンジニア」としての業務から「開発コンサル」「技術コンサル」「技術顧問」まで幅広く対応可能です。お仕事に関するお問い合わせはTwitterのDM等からお気軽にどうぞ。
+- 「手を動かすエンジニア」としての業務から「開発コンサル」「技術コンサル」「技術顧問」まで幅広く対応可能です。お仕事に関するお問い合わせはTwitterのDM等でご連絡ください。
 
 ## スキル
 
@@ -29,11 +29,21 @@
 
 ### 言語
 
-C | Java | Ruby | Objective-C | Javascript | Python | PHP | Perl
+- currently in use
+
+Ruby | JavaScript | TypeScript | SQL
+
+- Hobby SkillSet　OR not used recently
+C | C# | Java | Python | PHP | Perl
 
 ### フレームワーク等
 
-Ruby on Rails | jQuery | Angular.js | Vue.js | Wordpress | TypeScript | Sass
+- currently in use
+Ruby on Rails | React.js | Next.js | ReactNative | Wordpress | TypeScript
+
+- not currently
+
+jQuery | Angular.js | Vue.js
 
 ### RDB/NoSQL
 
@@ -41,9 +51,7 @@ MySQL | PostgreSQL | Redis | Memcached | Firestore
 
 ### クラウド
 
-#### AWS
-
-VPC | S3 | Cloud Front | API Gateway | Lambda | ELB | EC2 | ECS | Route53 | IAM | Cognito | Elasticsearch Service | RDS(MySQL|PostgreSQL) | Cloud Watch
+AWS | GCP | Heroku 
 
 ### SaaS/PaaS
 
@@ -51,7 +59,7 @@ GitHub | BitBucket(Stash) | CircleCI | Backlog | NewRelic | Firebase
 
 ### その他
 
-Docker | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Gulp | Webpack | Pug | SASS | Mecab | Zabbix | munin | Elasticsearch | Kibana | Heroku | Firebase hosting
+Docker | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Gulp | Webpack | Pug | SASS | Mecab | Zabbix | munin | Elasticsearch | Kibana　| Figma | Unity
 
 ### その他ツール
 
@@ -84,7 +92,11 @@ Trello | Rollbar | NewRelic
 
 ## 主な業務経歴
 
-### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/】(2020年8月 ~ 現在)
+### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/Heroku/CloudFlare】(2020年8月 ~ 現在)
+
+【プロジェクト概要】友人と協業して始めた別会社。CTOのロールとして活動。初期は企画から要件定義・設計・開発で全般担当。
+現在はコードレビュー及び企画・要件定義。
+各種業務委託メンバー集めも並行して担当。
 
 【プロジェクト概要】企画や要件定義、マーケター、デザイナー、エンジニアの人材集め、開発まで担当
 【担当業務】
@@ -95,6 +107,15 @@ Trello | Rollbar | NewRelic
 - アプリケーションレイヤーの実装
 - インフラ整備
 
+### リプレイスにおけるプロジェクト管理及び技術顧問　【Ruby/Rails/AWS/】(2021年7月 ~ 2022年3月)
+
+【プロジェクト概要】友人からの紹介で炎上中の案件に入り、新メンバー構築のための支援やロードマップ策定、その他ビジネスにかかる技術相談に対応。コードレビューやインフラ整備なども実施。
+
+【担当業務】
+- インフラ整備
+- DB設計およびソフトウェア設計
+- Ruby/RubyOnRailsの実装相談及びコードレビュー等
+
 ### 人材マネジメントツールMierunoの新規事業開発　【Ruby/Rails/GraphQL/Websocket/React/TypeScript】(2019年12月 ~ 2022年8月)
 
 【プロジェクト概要】全体ディレクターとして要件定義、営業からデザイナー、エンジニアの人材集め、プロジェクト管理、実行計画及び開発補助まで担当。
@@ -104,7 +125,7 @@ Trello | Rollbar | NewRelic
 - アーキテクチャおよびライブラリ選定
 - インフラ整備
 - Ruby/RubyOnRailsの開発補助およびコードレビュー等
-- React/Next.jsの開発補助及びコードレビュー等
+- React/Next.js/ReactNativeの開発補助及びコードレビュー等
 - Slackデータ収集機能の開発
 - WebSocketを使ったチャット機能の開発
 - レポート機能の開発
@@ -112,7 +133,7 @@ Trello | Rollbar | NewRelic
 - オウンドメディアの運用及びSEO対策
 - Google広告/SNS広告の運用
 
-### メールフォームSaaSの開発【Ruby/Rails/Vue/TypeScript】(2018年8月 ~ 現在)
+### メールフォームSaaSの開発【Ruby/Rails/Vue/TypeScript】(2018年8月 ~ ２０２０年8月)
 
 【プロジェクト概要】開発メンバーの一員として参加。バックエンドからフロントエンドまで担当。
 
@@ -132,7 +153,7 @@ Trello | Rollbar | NewRelic
 【発揮したバリュー】
 担当issueのDB設計や実装案含めて提示。
 
-### クリニック予約プラットフォームの開発【Ruby/Rails/Vue/jQuery/AWS/RDB】(2017年8月 ~ 現在)
+### クリニック予約プラットフォームの開発【Ruby/Rails/Vue/jQuery/AWS/RDB】(2017年8月 ~ ２０２０年2月)
 
 【プロジェクト概要】新規事業開発のエンジニアとして要件定義から基本設計、詳細設計、実装および運用まで担当。
 
