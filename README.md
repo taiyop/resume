@@ -4,11 +4,11 @@
 
 |key|value|
 |----|----|
-|名前|Taiyo Akashi|
-|生息地|東京都 国立市|
+|Name　|Taiyo Akashi|
+|Address|東京都 国立市|
 |Twitter|[@taiyop](https://twitter.com/taiyop)
 |Qiita|[@taiyop](https://qiita.com/taiyop)
-|英語力|TOEIC 695点 (2013年時点）|
+|English Communication Skill |TOEIC 695点 (2013年時点）|
 |Outcome Delivery Practitioner認定済 
 
 ![image](https://user-images.githubusercontent.com/1048048/60769467-11642a00-a10b-11e9-8b54-a5e88b21eb9b.png)
@@ -55,7 +55,7 @@ Docker | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Gulp | Webpack
 
 ### その他ツール
 
-Trello | Rollbar | 
+Trello | Rollbar | NewRelic
 
 ## バリューを発揮しやすい業務
 
@@ -82,15 +82,35 @@ Trello | Rollbar |
 - デプロイの自動化
 - クラウドの権限管理
 
-## 興味があること
-
-- アプリケーションのマイクロサービス化
-- サーバーレスアーキテクチャの導入
-- 監視ダッシュボードの導入
-- ログ収集と分析基盤の構築（re:dashの導入など）
-- アプリ開発
-
 ## 主な業務経歴
+
+### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/】(2020年8月 ~ 現在)
+
+【プロジェクト概要】企画や要件定義、マーケター、デザイナー、エンジニアの人材集め、開発まで担当
+【担当業務】
+- DB設計およびソフトウェ設計
+- アーキテクチャおよびライブラリ選定
+- Ruby/RubyOnRailsの開発補助およびコードレビュー等
+- スクレイピング実装
+- アプリケーションレイヤーの実装
+- インフラ整備
+
+### 人材マネジメントツールMierunoの新規事業開発　【Ruby/Rails/GraphQL/Websocket/React/TypeScript】(2019年12月 ~ 2022年8月)
+
+【プロジェクト概要】全体ディレクターとして要件定義、営業からデザイナー、エンジニアの人材集め、プロジェクト管理、実行計画及び開発補助まで担当。
+
+【担当業務】
+- DB設計およびソフトウェ設計
+- アーキテクチャおよびライブラリ選定
+- インフラ整備
+- Ruby/RubyOnRailsの開発補助およびコードレビュー等
+- React/Next.jsの開発補助及びコードレビュー等
+- Slackデータ収集機能の開発
+- WebSocketを使ったチャット機能の開発
+- レポート機能の開発
+- スタンプ登録機能の開発
+- オウンドメディアの運用及びSEO対策
+- Google広告/SNS広告の運用
 
 ### メールフォームSaaSの開発【Ruby/Rails/Vue/TypeScript】(2018年8月 ~ 現在)
 
