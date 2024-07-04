@@ -31,23 +31,23 @@
 
 - currently in use
 
-Ruby | JavaScript | TypeScript | SQL
+Ruby | Python | JavaScript | TypeScript | SQL
 
 - Hobby SkillSet　OR not used recently
-C | C# | Java | Python | PHP | Perl
+C | C# | Java | Python | PHP | Perl | Rust
 
 ### フレームワーク等
 
 - currently in use
-Ruby on Rails | React.js | Next.js | ReactNative | Wordpress | TypeScript
+Fast API | Ruby on Rails | React.js | Next.js | ReactNative | Wordpress | TypeScript 
 
 - not currently
 
-jQuery | Angular.js | Vue.js
+jQuery | Angular.js | Vue.js 
 
 ### RDB/NoSQL
 
-MySQL | PostgreSQL | Redis | Memcached | Firestore
+MySQL | PostgreSQL | Redis | Memcached | Firestore | Amazon Aurora
 
 ### クラウド
 
@@ -55,7 +55,7 @@ AWS | GCP | Heroku
 
 ### SaaS/PaaS
 
-GitHub | BitBucket(Stash) | CircleCI | Backlog | NewRelic | Firebase
+GitHub | BitBucket(Stash) | CircleCI | Backlog | NewRelic | Firebase 
 
 ### その他
 
@@ -68,10 +68,10 @@ Trello | Rollbar | NewRelic
 ## バリューを発揮しやすい業務
 
 - 0 → 1　の新規事業開発における初期エンジニアとしての取り組み（企画、設計、採用、etc)
-- 既存システムの外部連携
+- 1-> 10 既存システムの外部連携
 - アーキテクチャレベルで汎用性・堅牢性のある設計及び実装
 - 要望から実現案を提示すること
-- SEO対策
+- SEO対応
 - プロジェクトリーダー業　及び プロジェクトマネージャー
 
 ## その他できること
@@ -93,10 +93,11 @@ Trello | Rollbar | NewRelic
 
 ## 主な業務経歴
 
-### の開発及び運用　【Python/Fast API/AWS/LLM/TypeScript/React】(2024年8月 ~ 現在)
+### AIキャラクターサービスの開発及び運用　【Python/Fast API/AWS/LLM/TypeScript/React】(2024年8月 ~ 現在)
 
 【プロジェクト概要】PjMから開発のリード及び実装を担当。３つのプロジェクト・プロダクトにおいて難易度の高い箇所に取り組み、サービス実現に向けてリード推進。
-【担当業務】
+【推進した業務】
+- 曖昧な要件の洗い出しと対応案の推進
 - DB設計およびソフトウェアアーキテクチャ設計
 - アーキテクチャ設計およびライブラリ選定
 - クリーンアーキテクチャを使った、SOLID原則に基づいた設計及び実装
@@ -108,8 +109,12 @@ Trello | Rollbar | NewRelic
 - コーディング規約の選定及び整備
 - AI Avatarの音声対話におけるプロジェクトリード及び実装推進。ビジネスパートナーとの打ち合わせ及び往訪。
 - エンジニアとして営業とともに顧客折衝。
-- 英語ベースでのビジネスパートナーとの技術的打ち合わせ。
+- 英語ベースでの技術提携パートナーとの技術的仕様調整。
 
+【結果】
+- 超短期スケジュールでの開発及びリリースの実現
+- Xトレンド及びYahoo News Top、またテレビメディアへの大きな露出による会社知名度PRの実現
+- 当初の計画通りのサービスインの実現
 
 ### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/Heroku/CloudFlare】(2020年8月 ~ 現在)
 
@@ -118,19 +123,22 @@ Trello | Rollbar | NewRelic
 各種業務委託メンバー集めも並行して担当。
 
 【プロジェクト概要】企画や要件定義、マーケター、デザイナー、エンジニアの人材集め、開発まで担当
-【担当業務】
+【推進した業務】
 - DB設計およびソフトウェ設計
 - アーキテクチャおよびライブラリ選定
 - Ruby/RubyOnRailsの開発補助およびコードレビュー等
 - スクレイピング実装
 - アプリケーションレイヤーの実装
 - インフラ整備
+- 採用
+- コスト削減
 
 ### リプレイスにおけるプロジェクト管理及び技術顧問　【Ruby/Rails/AWS/】(2021年7月 ~ 2022年3月)
 
 【プロジェクト概要】友人からの紹介で炎上中の案件に入り、新メンバー構築のための支援やロードマップ策定、その他ビジネスにかかる技術相談に対応。コードレビューやインフラ整備なども実施。
 
-【担当業務】
+【推進した業務】
+- プロジェクトマイルストーン策定及び、プロジェクトマネジメント
 - インフラ整備
 - DB設計およびソフトウェア設計
 - Ruby/RubyOnRailsの実装相談及びコードレビュー等
@@ -139,7 +147,7 @@ Trello | Rollbar | NewRelic
 
 【プロジェクト概要】全体ディレクターとして要件定義、営業からデザイナー、エンジニアの人材集め、プロジェクト管理、実行計画及び開発補助まで担当。
 
-【担当業務】
+【推進した業務】
 - DB設計およびソフトウェ設計
 - アーキテクチャおよびライブラリ選定
 - インフラ整備
@@ -176,7 +184,7 @@ Trello | Rollbar | NewRelic
 
 【プロジェクト概要】新規事業開発のエンジニアとして要件定義から基本設計、詳細設計、実装および運用まで担当。
 
-【担当業務】
+【推進した業務】
 - 要件のヒアリングと実装への落とし込み作業
 - データベース設計
 - 訪問予約機能の開発
@@ -217,7 +225,9 @@ Trello | Rollbar | NewRelic
 
 【プロジェクト概要】新規事業の開発メンバーの初期メンバーとして、企画から設計、開発、運用、外注、採用まで全般的に担当。
 
-【担当業務】
+【推進した業務】
+- エンジニアチームビルディング、チームマネジメント
+- プロジェクトマネジメント
 - カテゴリ機能の開発
 - カート機能の開発
 - 決済機能の開発
