@@ -133,7 +133,7 @@ Trello | Rollbar | NewRelic
 - インフラ整備
 - 採用
 - コスト削減
-- HerokuからGCPへの移行。
+- HerokuからGCPへのDB及びAppの移行。
 
 ### リプレイスにおけるプロジェクト管理及び技術顧問　【Ruby/Rails/AWS/】(2021年7月 ~ 2022年3月)
 
