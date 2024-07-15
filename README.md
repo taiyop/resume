@@ -93,7 +93,7 @@ Trello | Rollbar | NewRelic
 
 ## 主な業務経歴
 
-### AIキャラクターサービスの開発及び運用　【Python/Fast API/AWS/LLM/TypeScript/React】(2024年8月 ~ 現在)
+### AIキャラクターサービスの開発及び運用　【Python/Fast API/AWS/LLM/TypeScript/React】(2023年8月 ~ 現在)
 
 【プロジェクト概要】PjMから開発のリード及び実装を担当。３つのプロジェクト・プロダクトにおいて難易度の高い箇所に取り組み、サービス実現に向けてリード推進。
 【推進した業務】
