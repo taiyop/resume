@@ -117,7 +117,7 @@ Trello | Rollbar | NewRelic
 - Xトレンド及びYahoo News Top、またテレビメディアへの大きな露出による会社知名度PRの実現
 - 当初の計画通りのサービスインの実現
 
-### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/Heroku/CloudFlare】(2020年8月 ~ 現在)
+### エンタメメディアen-tama.jpの開発及び運用　【Ruby/Rails/GCP/CloudFlare】(2020年8月 ~ 現在)
 
 【プロジェクト概要】友人と協業して始めた別会社。CTOのロールとして活動。初期は企画から要件定義・設計・開発で全般担当。
 現在はコードレビュー及び企画・要件定義。
@@ -133,6 +133,7 @@ Trello | Rollbar | NewRelic
 - インフラ整備
 - 採用
 - コスト削減
+- HerokuからGCPへの移行。
 
 ### リプレイスにおけるプロジェクト管理及び技術顧問　【Ruby/Rails/AWS/】(2021年7月 ~ 2022年3月)
 
