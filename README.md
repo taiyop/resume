@@ -8,7 +8,7 @@
 |Address|東京都 国立市|
 |Twitter|[@taiyop](https://twitter.com/taiyop)
 |Qiita|[@taiyop](https://qiita.com/taiyop)
-|English Communication Skill |TOEIC 695点 (2013年時点）|
+|English Communication Skill |TOEIC 840点 (2026年時点）|
 |Outcome Delivery Practitioner認定済 
 
 ![image](https://user-images.githubusercontent.com/1048048/60769467-11642a00-a10b-11e9-8b54-a5e88b21eb9b.png)
