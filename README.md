@@ -63,7 +63,7 @@ Docker | Fluentd | Capistrano | Chef | nginx | unicorn | Apache | Gulp | Webpack
 
 ### その他ツール
 
-Trello | Rollbar | NewRelic
+Trello | Rollbar | Sentry | Jira | Confluence
 
 ## バリューを発揮しやすい業務
 
@@ -74,25 +74,7 @@ Trello | Rollbar | NewRelic
 - SEO対応
 - プロジェクトリーダー業　及び プロジェクトマネージャー
 
-## その他できること
-
-- パッケージマネージャの導入
-- LinterやFormatterの導入
-- 単体テストや統合テストの導入
-- local/dev/stg/prod環境の適切な切り分け
-- Gitブランチモデルの適切な定義
-- 認証サービスの導入
-- メッセージングサービスの導入
-- 全文検索サービスの導入
-- CDNの導入
-- CIサービスの導入
-- コンテナ化(Docker化)
-- オートスケールの設定
-- デプロイの自動化
-- クラウドの権限管理
-
 ## 主な業務経歴
-
 
 ### AIキャラクターサービスの開発及び運用　【Rails/AWS/JavaScript】##################(2024年10月 ~ 2025年7月)
 
